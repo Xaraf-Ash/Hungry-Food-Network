@@ -1,1 +1,55 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 40px;
+}
+.paint{
+    color: turquoise;
+}
+.food-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 100%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(turquoise,blue);
+    font-weight: 700;
+    padding: 05px 20px;
+    border-radius: 10px;
+    color: white;
+}
+.bufet-container{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    display: flex;
+    
+    
+}
+.foodie img{
+    width: 80%;
+    
+}
+.foodie{
+    width: 100%;
+    padding-left: 5%;
+    
+    
+}
+
+.linkbutton{
+    text-decoration: none;
+    background-image: linear-gradient(pink,cyan);
+    font-weight: 700;
+    padding: 05px 20px;
+    border-radius: 10px;
+    color: white;
+}
 
