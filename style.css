@@ -26,6 +26,7 @@ h1{
     padding: 05px 20px;
     border-radius: 10px;
     color: white;
+    box-shadow: steelblue;
 }
 .bufet-container{
     background-image: url(images/shapes/Frame\ 58.jpg);
@@ -51,5 +52,8 @@ h1{
     padding: 05px 20px;
     border-radius: 10px;
     color: white;
+}
+.food-container{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
