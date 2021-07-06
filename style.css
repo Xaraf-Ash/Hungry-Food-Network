@@ -28,14 +28,16 @@ h1{
     color: white;
     box-shadow: steelblue;
 }
-.bufet-container{
-    background-image: url(images/shapes/Frame\ 58.jpg);
+.top-banner{
+    background-image: url(images/shapes/211245402_877285416477038_8293935689012548310_n.jpg);
     display: flex;
-    
+    margin: 2%;
+   
+    background-repeat: no-repeat;
     
 }
 .foodie img{
-    width: 80%;
+    width: 90%;
     
 }
 .foodie{
@@ -47,7 +49,7 @@ h1{
 
 .linkbutton{
     text-decoration: none;
-    background-image: linear-gradient(pink,cyan);
+    background-image: linear-gradient(rgb(100, 7, 72),cyan);
     font-weight: 700;
     padding: 05px 20px;
     border-radius: 10px;
